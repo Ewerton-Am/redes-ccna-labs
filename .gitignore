@@ -1,0 +1,11 @@
+# Backups e temporários do Packet Tracer
+*.pkt.bak
+*.pka.bak
+
+# Lixo do sistema (Windows/macOS)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Rascunhos pessoais
+/rascunhos/
